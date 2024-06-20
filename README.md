@@ -23,5 +23,5 @@ pip install -r requirements.txt
 https://flight-price-predictor-f8bcaf1fecc5.herokuapp.com/
 
 ## Images
-![Test Image 1]https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuogd4uik0i1xQEs5hQ__gm20MhrfFWW7u8A&s)
+![Test Image 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuogd4uik0i1xQEs5hQ__gm20MhrfFWW7u8A&s)
 
