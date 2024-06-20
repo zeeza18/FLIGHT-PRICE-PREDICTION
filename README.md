@@ -24,3 +24,5 @@ https://flight-price-predictor-f8bcaf1fecc5.herokuapp.com/
 
 ## Images
 ![Test Image 1](https://i.postimg.cc/9FZKWGDL/Screenshot-2024-06-20-152750.png)
+
+![Test Image 2](https://i.postimg.cc/ryJR7HJj/Screenshot-2024-06-20-154749.png)
