@@ -21,7 +21,7 @@ pip install -r requirements.txt
 ## Heroku Link
 
 https://flight-price-predictor-f8bcaf1fecc5.herokuapp.com/
-## Images
-![App Screenshot](https://app.gemoo.com/share/image-annotation/662512894616875008?codeId=M0a8QERm8l1ya&origin=imageurlgenerator&card=662512890309324800)
 
+## Images
+![Test Image 1](https://ibb.co/kSyrFJd)
 
